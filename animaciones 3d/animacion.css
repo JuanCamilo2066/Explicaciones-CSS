@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<title>Resultado</title>
+</head>
+<body>
+<div id="header">
+<div id="navbar">
+<ul>
+<li>Página principal</li>
+<li>Sobre mí</li>
+<li>Planes para dominar el mundo</li>
+<li>Contacto</li>
+</ul>
+</div>
+<h2>Sobre mí</h2>
+</div>
+<div id="left">
+<img src="http://s3.amazonaws.com/codecademy-blog/assets/puppy-main_zps26d178c5.jpg"/>
+<p>Soy el cachorro más malo del mundo. Esto ha sido probado científicamente en varios ensayos clínicos.</p>
+</div>
+<div id="right">
+<table>
